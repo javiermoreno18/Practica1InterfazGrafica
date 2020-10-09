@@ -1,0 +1,9 @@
+C:\Users\fcoja\source\repos\PracticaInterfazGrafica0\PracticaInterfazGrafica0\bin\Debug\PracticaInterfazGrafica0.exe.config
+C:\Users\fcoja\source\repos\PracticaInterfazGrafica0\PracticaInterfazGrafica0\bin\Debug\PracticaInterfazGrafica0.exe
+C:\Users\fcoja\source\repos\PracticaInterfazGrafica0\PracticaInterfazGrafica0\bin\Debug\PracticaInterfazGrafica0.pdb
+C:\Users\fcoja\source\repos\PracticaInterfazGrafica0\PracticaInterfazGrafica0\obj\Debug\PracticaInterfazGrafica0.csprojAssemblyReference.cache
+C:\Users\fcoja\source\repos\PracticaInterfazGrafica0\PracticaInterfazGrafica0\obj\Debug\PracticaInterfazGrafica0.Form1.resources
+C:\Users\fcoja\source\repos\PracticaInterfazGrafica0\PracticaInterfazGrafica0\obj\Debug\PracticaInterfazGrafica0.Properties.Resources.resources
+C:\Users\fcoja\source\repos\PracticaInterfazGrafica0\PracticaInterfazGrafica0\obj\Debug\PracticaInterfazGrafica0.csproj.GenerateResource.cache
+C:\Users\fcoja\source\repos\PracticaInterfazGrafica0\PracticaInterfazGrafica0\obj\Debug\PracticaInterfazGrafica0.exe
+C:\Users\fcoja\source\repos\PracticaInterfazGrafica0\PracticaInterfazGrafica0\obj\Debug\PracticaInterfazGrafica0.pdb
